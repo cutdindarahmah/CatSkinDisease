@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#1E88E5"
+backgroundColor = "#bcd9f8"
+secondaryBackgroundColor = "#d7eefe"
+textColor = "#12304a"
+# medium blue theme, base forced to light so UI isn't dark
